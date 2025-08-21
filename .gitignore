@@ -400,6 +400,7 @@ FodyWeavers.xsd
 # JetBrains Rider
 *.sln.iml
 
+# expressCard39
 openRoot35/
 cascadeAmount49/
 dayLine30/
@@ -429,4 +430,5 @@ flyEmpower50/
 rackShare34/
 ourBreak31/
 
+# Extra
 private/protected/
