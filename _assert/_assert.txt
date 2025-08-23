@@ -1,0 +1,151 @@
+----------------------------------------------------------------
+*	expressCard39: Cross Threaded System
+..	openRoot35: Main Branch
+1.	cascadeAmount49: Machine Level Pointer
+2.	dayLine30: Enumerated Companies
+3.	discDesk30: The Binary Top
+4.	plusApprox45: Spontaneous Tool
+5.	snapControl50: Work Schedule
+6.	spaceVariety43: Favourite Environment
+7.	backScreen36: A Prototype
+8.	coreHistory45: Past Assessment
+9.	transferLimit53: Common Structure
+10.	autoCell36: Alternate Function
+11.	informationType63: Check Board
+12.	sumReverse39: Virtual Facility
+13.	idealLock39: Registry Volume
+14.	pinIssue34: Native Interest
+15.	slashPage38: New Plug
+16.	futureClock48: Delimiter Pair
+17.	searchAnchor46: Channel Access
+18.	applicationSeries68: Docking Area
+19.	multiColour52: Magnet Coin
+20.	netCurve28: Stream Index
+21.	dataDrive27: File Content
+22.	annualBridge46: Business Architecture
+23.	boxAsset27: System Graph
+24.	manageWire39: Per Instance
+25.	flyEmpower50: Platform Synchronisation
+26.	rackShare34: Swap Subdirectory
+::.	ourBreak31: Referring Semicolon
+----------------------------------------------------------------
+*	openRoot35: Main Branch
+..	
+1.	
+2.	
+3.	
+4.	
+5.	
+6.	
+7.	
+8.	
+9.	
+10.	
+11.	
+12.	
+13.	
+14.	
+15.	
+16.	
+17.	
+18.	
+19.	
+20.	
+21.	
+22.	
+23.	
+24.	
+25.	
+26.	
+::.	
+----------------------------------------------------------------
+*	ourBreak31: Referring Semicolon
+..	aLineMan34: Pre Released Rallies
+1.	
+2.	
+3.	
+4.	
+5.	
+6.	
+7.	
+8.	
+9.	
+10.	
+11.	
+12.	
+13.	
+14.	
+15.	
+16.	
+17.	
+18.	
+19.	
+20.	
+21.	
+22.	
+23.	
+24.	
+25.	
+26.	
+::.	itBook23: Console Service Provider
+----------------------------------------------------------------
+*	aLineMan34: Pre Released Rallies
+..	GitHub: Scroll Bar
+1.	Wikipedia: Punctuation Mark
+2.	StackOverflow: Query String
+3.	W3Schools: Copy & Paste
+4.	: 
+5.	: 
+6.	: 
+7.	: 
+8.	: 
+9.	: 
+10.	: 
+11.	: 
+12.	: 
+13.	: 
+14.	: 
+15.	: 
+16.	: 
+17.	: 
+18.	: 
+19.	: 
+20.	: 
+21.	: 
+22.	: 
+23.	: 
+24.	Bootstrap: Navigation Shortcut
+25.	Google: Tab Section
+26.	WhatsApp: Slide Panel
+::.	WHOIS: Drag & Drop
+----------------------------------------------------------------
+*	itBook23: Console Service Provider
+..	AT&T: C
+1.	Microsoft: Windows
+2.	Apple: Mac
+3.	Unix: Linux
+4.	Alphabet: Android
+5.	Sun Microsystems: Java
+6.	ISRO: Artificial Satellite
+7.	Intel: Computer Component
+8.	BCMI Labs: Arduino
+9.	Nvidia: GPU
+10.	Raspberry: Pi
+11.	IBM: Proprietary Software
+12.	Oracle: Solaris
+13.	BSD: BSD Operating System
+14.	Alphabet: Chromium
+15.	Amazon: AWS
+16.	Meta: Social Networking
+17.	Mozilla: Firefox
+18.	AMD: CPU
+19.	Shopify: E-Commerce
+20.	GoDaddy: Domain Server
+21.	Zoho: CMS
+22.	Boeing: Aircraft
+23.	HP: Personal Computer
+24.	Qualcomm: IC
+25.	Sony: Electronic Gadget
+26.	Bitcoin: Cryptocurrency
+::.	W3C: Internet Protocol
+----------------------------------------------------------------
