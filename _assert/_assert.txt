@@ -94,26 +94,26 @@
 1.	Wikipedia: Punctuation Mark
 2.	StackOverflow: Query String
 3.	W3Schools: Copy & Paste
-4.	: 
-5.	: 
-6.	: 
-7.	: 
-8.	: 
-9.	: 
-10.	: 
-11.	: 
-12.	: 
-13.	: 
-14.	: 
-15.	: 
-16.	: 
-17.	: 
-18.	: 
-19.	: 
-20.	: 
-21.	: 
-22.	: 
-23.	: 
+4.	: Title Bar
+5.	: Menu Bar
+6.	: Tool Bar
+7.	: List Item
+8.	: Dash Board
+9.	: Text Layout
+10.	: Action Button
+11.	: Status Icon
+12.	: Modal Box
+13.	: Edit Box
+14.	: Display Opacity
+15.	: Window Panel
+16.	: Margin Space
+17.	: Border Style
+18.	: Multimedia Area
+19.	: Message Box
+20.	: Pop Up
+21.	: Dialogue Box
+22.	: Radio Button
+23.	: Combo Box
 24.	Bootstrap: Navigation Shortcut
 25.	Google: Tab Section
 26.	WhatsApp: Slide Panel
