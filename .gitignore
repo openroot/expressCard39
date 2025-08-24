@@ -400,7 +400,10 @@ FodyWeavers.xsd
 # JetBrains Rider
 *.sln.iml
 
-# expressCard39
+# expressCard39 - contract
+34615992026136424604623399368/private/protected/
+
+# expressCard39 - structure
 openRoot35/
 cascadeAmount49/
 dayLine30/
@@ -429,6 +432,3 @@ manageWire39/
 flyEmpower50/
 rackShare34/
 ourBreak31/
-
-# Extra
-private/protected/
