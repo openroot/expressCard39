@@ -57,7 +57,7 @@
 24.	
 25.	
 26.	
-::.	 serialNomination67:  After Season
+::.	serialNomination67: After Season
 ----------------------------------------------------------------
 *	ourBreak31: Referring Semicolon
 ..	aLineMan34: Pre Released Rallies
