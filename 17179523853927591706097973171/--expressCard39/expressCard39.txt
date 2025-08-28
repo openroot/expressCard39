@@ -91,9 +91,9 @@
 ----------------------------------------------------------------
 *	canvasIdentity50: Before Admission
 ..	welcomeSlip53: Best Option
-1.	raceLine31: 
-2.	showBright40: 
-3.	moreTrust37: 
+1.	raceLine31: Pure Interest
+2.	showBright40: Key Connect
+3.	moreTrust37: First Investment
 4.	
 5.	
 6.	
@@ -114,8 +114,8 @@
 21.	
 22.	
 23.	
-24.	zeroTax25: 
-25.	parseHot32: 
+24.	zeroTax25: Pay Flat
+25.	parseHot32: Full Revision
 26.	andCount32: Core Group
 ::.	worldWebMart53: Plus Items
 ----------------------------------------------------------------
@@ -146,7 +146,7 @@
 23.	
 24.	socialHub37: 
 25.	tourPoint38: 
-26.	bankBulb31: 
+26.	bankBulb31: Big Stake
 ::.	theNotePack42: List Things
 ----------------------------------------------------------------
 *	aLineMan34: Pre Released Rallies
