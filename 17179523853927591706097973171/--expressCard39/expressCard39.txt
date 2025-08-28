@@ -93,7 +93,7 @@
 ..	welcomeSlip53: Best Option
 1.	raceLine31: 
 2.	showBright40: 
-3.	
+3.	moreTrust37: 
 4.	
 5.	
 6.	
@@ -144,7 +144,7 @@
 21.	
 22.	
 23.	
-24.	
+24.	socialHub37: 
 25.	tourPoint38: 
 26.	bankBulb31: 
 ::.	theNotePack42: List Things
