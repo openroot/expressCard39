@@ -126,7 +126,7 @@
 3.	wordAssembly55: Learn More
 4.	accessPoint43: Up Next
 5.	patchColumn48: A Link
-6.	myMonitor41
+6.	myMonitor41: Start Menu
 7.	powerPack40
 8.	workModel44
 9.	
