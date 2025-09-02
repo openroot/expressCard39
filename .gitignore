@@ -400,35 +400,36 @@ FodyWeavers.xsd
 # JetBrains Rider
 *.sln.iml
 
-# expressCard39 - Contract
-/34615992026136424604623399368/--expressCard39/3_02025-08-27_09-06-43_05-30_/private/protected/
+# Formation38
+/34615992026136424604623399368/--expressCard39/3_02025-08-27_09-06-43_05-30_/Formation38/Protected/
 
-# expressCard39 - Structure
-/openRoot35/
-/cascadeAmount49/
-/dayLine30/
-/discDesk30/
-/plusApprox45/
-/snapControl50/
-/spaceVariety43/
-/backScreen36/
-/coreHistory45/
-/transferLimit53/
-/autoCell36/
-/informationType63/
-/sumReverse39/
-/idealLock39/
-/pinIssue34/
-/slashPage38/
-/futureClock48/
-/searchAnchor46/
-/applicationSeries68/
-/multiColour52/
-/netCurve28/
-/dataDrive27/
-/annualBridge46/
-/boxAsset27/
-/manageWire39/
-/flyEmpower50/
-/rackShare34/
-/ourBreak31/
+# expressCard39
+/expressCard39/0. expressCard39/
+/expressCard39/#. openRoot35/
+/expressCard39/1. cascadeAmount49/
+/expressCard39/2. dayLine30/
+/expressCard39/3. discDesk30/
+/expressCard39/4. plusApprox45/
+/expressCard39/5. snapControl50/
+/expressCard39/6. spaceVariety43/
+/expressCard39/7. backScreen36/
+/expressCard39/8. coreHistory45/
+/expressCard39/9. transferLimit53/
+/expressCard39/10. autoCell36/
+/expressCard39/11. informationType63/
+/expressCard39/12. sumReverse39/
+/expressCard39/13. idealLock39/
+/expressCard39/14. pinIssue34/
+/expressCard39/15. slashPage38/
+/expressCard39/16. futureClock48/
+/expressCard39/17. searchAnchor46/
+/expressCard39/18. applicationSeries68/
+/expressCard39/19. multiColour52/
+/expressCard39/20. netCurve28/
+/expressCard39/21. dataDrive27/
+/expressCard39/22. annualBridge46/
+/expressCard39/23. boxAsset27/
+/expressCard39/24. manageWire39/
+/expressCard39/25. flyEmpower50/
+/expressCard39/26. rackShare34/
+/expressCard39/@. ourBreak31/
