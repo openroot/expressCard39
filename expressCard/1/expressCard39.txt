@@ -49,7 +49,7 @@
 8.	castEngine36
 9.	phoneBooth41
 10.	decimalSystem54
-11.	
+11.	styleWizard50
 12.	
 13.	
 14.	
@@ -79,7 +79,7 @@
 8.	workModel44
 9.	fiscalPath41
 10.	starTrainer40
-11.	
+11.	computableUnit57
 12.	
 13.	
 14.	
