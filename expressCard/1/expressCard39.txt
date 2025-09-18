@@ -50,10 +50,10 @@
 9.	phoneBooth41
 10.	decimalSystem54
 11.	styleWizard50
-12.	
+12.	fullScreen47
 13.	
 14.	
-15.	
+15.	oneMore30
 16.	paperRoller50
 17.	horizonBlue49
 18.	keyTone30
@@ -80,10 +80,10 @@
 9.	fiscalPath41
 10.	starTrainer40
 11.	computableUnit57
-12.	
+12.	dualAudit35
 13.	
 14.	
-15.	
+15.	bestCheck31
 16.	dynamicWorld54
 17.	spiralBand40
 18.	officialStuff57
