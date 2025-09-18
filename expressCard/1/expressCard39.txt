@@ -51,8 +51,8 @@
 10.	decimalSystem54
 11.	styleWizard50
 12.	fullScreen47
-13.	
-14.	
+13.	teaPot22
+14.	moneyProfile56
 15.	oneMore30
 16.	paperRoller50
 17.	horizonBlue49
@@ -81,8 +81,8 @@
 10.	starTrainer40
 11.	computableUnit57
 12.	dualAudit35
-13.	
-14.	
+13.	handMade29
+14.	realCost33
 15.	bestCheck31
 16.	dynamicWorld54
 17.	spiralBand40
