@@ -45,7 +45,7 @@
 4.	mixAgreement41: At Work
 5.	currentArt37: Design Decision
 6.	rightClick38: Compatible Layout
-7.	interLog33
+7.	interLog33: New Round
 8.	castEngine36
 9.	phoneBooth41
 10.	decimalSystem54
@@ -75,7 +75,7 @@
 4.	accessPoint43: Up Next
 5.	patchColumn48: A Link
 6.	myMonitor41: Start Menu
-7.	powerPack40
+7.	powerPack40: Regional Preference
 8.	workModel44
 9.	fiscalPath41
 10.	starTrainer40
@@ -88,7 +88,7 @@
 17.	spiralBand40
 18.	officialStuff57
 19.	primarySet41
-20.	fixAction31
+20.	fixAction31: Seasonal Adjustment
 21.	netProperty46: Full Walk
 22.	theFact24: Enumerable Factor
 23.	doServe25: Finite Amount
