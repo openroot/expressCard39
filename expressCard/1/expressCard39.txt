@@ -42,9 +42,9 @@
 1.	raceLine31: Pure Interest
 2.	showBright40: Key Connect
 3.	moreTrust37: First Investment
-4.	mixAgreement41
-5.	currentArt37
-6.	rightClick38
+4.	mixAgreement41: At Work
+5.	currentArt37: Design Decision
+6.	rightClick38: Compatible Layout
 7.	interLog33
 8.	castEngine36
 9.	phoneBooth41
@@ -59,9 +59,9 @@
 18.	keyTone30
 19.	rollExpress49
 20.	trafficOver40
-21.	virtualWire44
-22.	trackSpent39
-23.	swipeCart36
+21.	virtualWire44: Easy Fit
+22.	trackSpent39: One Day
+23.	swipeCart36: Pile Up
 24.	zeroTax25: Pay Flat
 25.	parseHot32: Full Revision
 26.	andCount32: Core Group
@@ -89,7 +89,7 @@
 18.	officialStuff57
 19.	primarySet41
 20.	fixAction31
-21.	netProperty46
+21.	netProperty46: Full Walk
 22.	theFact24: Enumerable Factor
 23.	doServe25: Finite Amount
 24.	socialHub37: Fine Discoveries
